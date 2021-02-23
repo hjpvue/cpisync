@@ -1,0 +1,23 @@
+{
+  "name": "cpisync",
+  "version": "1.0.0",
+  "description": "cpisync",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjpvue/cpisync.git"
+  },
+  "author": "HJP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjpvue/cpisync/issues"
+  },
+  "homepage": "https://github.com/hjpvue/cpisync#readme"
+}
