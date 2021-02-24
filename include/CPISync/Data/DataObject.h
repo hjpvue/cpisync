@@ -13,8 +13,8 @@
 #include <map>
 #include <list>
 
-#include <CPISync/Aux/UID.h>
-#include <CPISync/Aux/Auxiliary.h>
+#include <CPISync/Auxi/UID.h>
+#include <CPISync/Auxi/Auxiliary.h>
 
 // namespaces
 using std::string;

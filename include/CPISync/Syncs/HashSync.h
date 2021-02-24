@@ -7,7 +7,7 @@
 #ifndef CPISYNCLIB_HASHSYNC_H
 #define CPISYNCLIB_HASHSYNC_H
 
-#include <CPISync/Aux/SyncMethod.h>
+#include <CPISync/Auxi/SyncMethod.h>
 #include <CPISync/Data/DataObject.h>
 #include <CPISync/Syncs/GenSync.h>
 

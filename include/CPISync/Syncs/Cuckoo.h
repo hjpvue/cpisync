@@ -18,7 +18,7 @@
 #include <stack>
 #include <NTL/ZZ.h>
 #include <CPISync/Data/DataObject.h>
-#include <CPISync/Aux/Auxiliary.h>
+#include <CPISync/Auxi/Auxiliary.h>
 #include <CPISync/Syncs/Compact2DBitArray.h>
 
 using std::vector;

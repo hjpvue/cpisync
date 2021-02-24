@@ -2,7 +2,7 @@
 // Created by Shubham Arora on 7/20/20.
 //
 
-#include <CPISync/Aux/Exceptions.h>
+#include <CPISync/Auxi/Exceptions.h>
 #include <CPISync/Syncs/IBLTSync_Multiset.h>
 
 IBLTSync_Multiset::IBLTSync_Multiset(size_t expected, size_t eltSize): myIBLT(expected, eltSize) {

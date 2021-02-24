@@ -6,7 +6,7 @@
  */
 
 #include <chrono>
-#include <CPISync/Aux/Auxiliary.h>
+#include <CPISync/Auxi/Auxiliary.h>
 #include <CPISync/Communicants/CommString.h>
 
 CommString::CommString(const string& initial, bool base64) {

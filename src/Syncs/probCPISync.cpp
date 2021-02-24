@@ -2,7 +2,7 @@
 #include <NTL/RR.h>
 
 // project libraries
-#include <CPISync/Aux/SyncMethod.h>
+#include <CPISync/Auxi/SyncMethod.h>
 #include <CPISync/Syncs/CPISync.h>
 #include <CPISync/Syncs/ProbCPISync.h>
 

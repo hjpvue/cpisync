@@ -4,7 +4,7 @@
 #include <fstream>
 
 #include <CPISync/Syncs/GenSync.h>
-#include <CPISync/Aux/Exceptions.h>
+#include <CPISync/Auxi/Exceptions.h>
 #include <CPISync/Syncs/CPISync.h>
 #include <CPISync/Communicants/CommSocket.h>
 #include <CPISync/Communicants/CommString.h>

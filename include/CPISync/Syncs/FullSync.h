@@ -19,9 +19,9 @@
 #include <NTL/vec_ZZ_p.h>
 #include <NTL/ZZ_pXFactoring.h>
 #include <algorithm>
-#include <CPISync/Aux/Auxiliary.h>
-#include <CPISync/Aux/SyncMethod.h>
-#include <CPISync/Aux/Exceptions.h>
+#include <CPISync/Auxi/Auxiliary.h>
+#include <CPISync/Auxi/SyncMethod.h>
+#include <CPISync/Auxi/Exceptions.h>
 
 // namespaces
 using namespace NTL;

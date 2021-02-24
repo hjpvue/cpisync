@@ -4,7 +4,7 @@
 #define DATA_OBJECT_CONTAINER_H 
 
 #include <CPISync/Data/DataObject.h>
-#include <CPISync/Aux/Exceptions.h>
+#include <CPISync/Auxi/Exceptions.h>
 
 /**
  * Data Object Container

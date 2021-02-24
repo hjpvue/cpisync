@@ -13,8 +13,8 @@
 
 #include <CPISync/Communicants/Communicant.h>
 #include <CPISync/Data/DataObject.h>
-#include <CPISync/Aux/Auxiliary.h>
-#include <CPISync/Aux/SyncMethod.h>
+#include <CPISync/Auxi/Auxiliary.h>
+#include <CPISync/Auxi/SyncMethod.h>
 
 // namespace info
 using std::string;

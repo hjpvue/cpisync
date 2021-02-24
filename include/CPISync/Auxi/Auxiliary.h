@@ -28,8 +28,8 @@
 #include <climits>
 #include <cstring>
 #include <memory>
-#include <CPISync/Aux/ConstantsAndTypes.h>
-#include <CPISync/Aux/Logger.h>
+#include <CPISync/Auxi/ConstantsAndTypes.h>
+#include <CPISync/Auxi/Logger.h>
 
 // some standard names
 using std::cout;

@@ -13,10 +13,10 @@
 #include <CPISync/Syncs/InterCPISync.h>
 #include <CPISync/Communicants/CommString.h>
 #include <CPISync/Communicants/CommSocket.h>
-#include <CPISync/Aux/Auxiliary.h>
+#include <CPISync/Auxi/Auxiliary.h>
 #include <CPISync/Syncs/GenSync.h>
 #include <CPISync/Syncs/FullSync.h>
-#include <CPISync/Aux/ForkHandle.h>
+#include <CPISync/Auxi/ForkHandle.h>
 #include "TestAuxiliary.h"
 
 class BenchmarkTest : public CPPUNIT_NS::TestFixture

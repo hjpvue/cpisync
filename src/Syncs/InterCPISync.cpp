@@ -7,9 +7,9 @@
  * Created on November 30, 2011, 10:46 PM
  */
 
-#include <CPISync/Aux/Auxiliary.h>
+#include <CPISync/Auxi/Auxiliary.h>
 #include <CPISync/Communicants/Communicant.h>
-#include <CPISync/Aux/Exceptions.h>
+#include <CPISync/Auxi/Exceptions.h>
 #include <CPISync/Syncs/CPISync.h>
 #include <CPISync/Syncs/InterCPISync.h>
 
