@@ -7,7 +7,7 @@
 //
 
 #include <CPISync/Syncs/IBLT.h>
-#include <CPISync/Aux/Exceptions.h>
+#include <CPISync/Auxi/Exceptions.h>
 #include <CPISync/Syncs/IBLTSetOfSets.h>
 
 /** 

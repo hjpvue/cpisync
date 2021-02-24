@@ -13,7 +13,7 @@
 #include <string>
 #include <NTL/ZZ.h>
 #include <sstream>
-#include <CPISync/Aux/Auxiliary.h>
+#include <CPISync/Auxi/Auxiliary.h>
 #include <CPISync/Data/DataObject.h>
 
 using std::vector;

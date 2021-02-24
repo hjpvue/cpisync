@@ -6,7 +6,7 @@
 #define CPISYNC_IBLTSYNC_MULTISET_H
 
 #include <CPISync/Syncs/IBLTMultiset.h>
-#include <CPISync/Aux/SyncMethod.h>
+#include <CPISync/Auxi/SyncMethod.h>
 
 class IBLTSync_Multiset : public SyncMethod {
 public:

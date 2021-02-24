@@ -14,8 +14,8 @@
 #ifndef CPISYNCLIB_IBLTSYNC_H
 #define CPISYNCLIB_IBLTSYNC_H
 
-#include <CPISync/Aux/SyncMethod.h>
-#include <CPISync/Aux/Auxiliary.h>
+#include <CPISync/Auxi/SyncMethod.h>
+#include <CPISync/Auxi/Auxiliary.h>
 #include <CPISync/Syncs/IBLT.h>
 
 class IBLTSync : public SyncMethod {

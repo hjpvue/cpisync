@@ -10,13 +10,13 @@ set(CMAKE_CXX_FLAGS "-DDEFAULT_LOGLEVEL=TEST")
 
 # Set project directory strucuture
 set(SRC_DIR src)
-set(AUX_DIR ${SRC_DIR}/Aux)
+set(AUX_DIR ${SRC_DIR}/Auxi)
 set(DATA_DIR ${SRC_DIR}/Data)
 set(COMM_DIR ${SRC_DIR}/Communicants)
 set(SYNC_DIR ${SRC_DIR}/Syncs)
 
 set(INCLUDE include/CPISync)
-set(AUX_DIR_INC ${INCLUDE}/Aux)
+set(AUX_DIR_INC ${INCLUDE}/Auxi)
 set(DATA_DIR_INC ${INCLUDE}/Data)
 set(COMM_DIR_INC ${INCLUDE}/Communicants)
 set(SYNC_DIR_INC ${INCLUDE}/Syncs)

@@ -11,7 +11,7 @@
 #include <cerrno>
 #include <NTL/ZZ_p.h>
 #include <NTL/vec_ZZ_p.h>
-#include <CPISync/Aux/ConstantsAndTypes.h>
+#include <CPISync/Auxi/ConstantsAndTypes.h>
 #include <CPISync/Data/DataObject.h>
 #include <CPISync/Data/DataPriorityObject.h>
 #include <CPISync/Syncs/IBLT.h>

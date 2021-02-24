@@ -9,7 +9,7 @@
  * https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf
  */
 
-#include <CPISync/Aux/Exceptions.h>
+#include <CPISync/Auxi/Exceptions.h>
 #include <CPISync/Syncs/CuckooSync.h>
 
 CuckooSync::CuckooSync(size_t fngprtSize, size_t bucketSize,
