@@ -9,3 +9,5 @@ I wonder how to deal with NTL, cppunit and GMP dependencies under Node?
 Should probably download and build it automatically from the Node build script?
 We can run cmake first and see if it flies, maybe it'll find the system libntl-dev and libcppunit-dev and libgmp-dev or other such versions.
 If the preliminary build fails, we can fall back to downloading the dependencies and pointing cmake at them.
+
+we are porting to dll and then calling node native
